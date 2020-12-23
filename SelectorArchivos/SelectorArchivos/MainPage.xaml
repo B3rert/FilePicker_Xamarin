@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SelectorArchivos.MainPage">
+
+    <StackLayout>
+
+        <Button Text="Select Image"
+                x:Name="btnSelectImage"
+                Clicked="btnSelectImage_Clicked"/>
+        <Image x:Name="imgSelectedImage"/>
+
+        <Button Text="Pick Images"
+                x:Name="btnSelectedMultipleImages"
+                Clicked="btnSelectedMultipleImages_Clicked"/>
+
+        <StackLayout HeightRequest="150">
+            <CollectionView x:Name="collectionImages"
+                        ItemsLayout="HorizontalList">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate >
+                        <StackLayout>
+                            <Image Source="{Binding .}"
+                                   HeightRequest="140"
+                                   HorizontalOptions="CenterAndExpand" 
+                                   VerticalOptions="Center" 
+                                   Margin="10"/>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+       
+        <Button Text="Select PDF"
+                x:Name="btnSelectPdf"
+                Clicked="btnSelectPdf_Clicked"
+                />
+        <Label x:Name="lblPdfName"/>
+    </StackLayout>
+
+    
+    
+</ContentPage>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/IDLprvPnAPcfFLwXyim2f8KqJC25naBmb6rQj1eoXyLnmV6qfo2Lzv5Y39scQJ0jETZyJeuOtHIjhmmsaPnWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andres\\Desktop\\FilePicker\\SelectorArchivos\\SelectorArchivos\\SelectorArchivos.iOS\\SelectorArchivos.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andres\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\xamarin.essentials\\1.6.0\\xamarin.essentials.1.6.0.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512"
+  ],
+  "logs": []
+}

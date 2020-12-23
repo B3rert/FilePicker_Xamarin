@@ -1,0 +1,14 @@
+C:\Users\Andres\Desktop\FilePicker\SelectorArchivos\SelectorArchivos\SelectorArchivos\bin\Debug\netstandard2.0\SelectorArchivos.deps.json
+C:\Users\Andres\Desktop\FilePicker\SelectorArchivos\SelectorArchivos\SelectorArchivos\bin\Debug\netstandard2.0\SelectorArchivos.dll
+C:\Users\Andres\Desktop\FilePicker\SelectorArchivos\SelectorArchivos\SelectorArchivos\bin\Debug\netstandard2.0\ref\SelectorArchivos.dll
+C:\Users\Andres\Desktop\FilePicker\SelectorArchivos\SelectorArchivos\SelectorArchivos\bin\Debug\netstandard2.0\SelectorArchivos.pdb
+C:\Users\Andres\Desktop\FilePicker\SelectorArchivos\SelectorArchivos\SelectorArchivos\obj\Debug\netstandard2.0\SelectorArchivos.csprojAssemblyReference.cache
+C:\Users\Andres\Desktop\FilePicker\SelectorArchivos\SelectorArchivos\SelectorArchivos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Andres\Desktop\FilePicker\SelectorArchivos\SelectorArchivos\SelectorArchivos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Andres\Desktop\FilePicker\SelectorArchivos\SelectorArchivos\SelectorArchivos\obj\Debug\netstandard2.0\SelectorArchivos.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\FilePicker\SelectorArchivos\SelectorArchivos\SelectorArchivos\obj\Debug\netstandard2.0\SelectorArchivos.AssemblyInfo.cs
+C:\Users\Andres\Desktop\FilePicker\SelectorArchivos\SelectorArchivos\SelectorArchivos\obj\Debug\netstandard2.0\SelectorArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\FilePicker\SelectorArchivos\SelectorArchivos\SelectorArchivos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Andres\Desktop\FilePicker\SelectorArchivos\SelectorArchivos\SelectorArchivos\obj\Debug\netstandard2.0\SelectorArchivos.dll
+C:\Users\Andres\Desktop\FilePicker\SelectorArchivos\SelectorArchivos\SelectorArchivos\obj\Debug\netstandard2.0\ref\SelectorArchivos.dll
+C:\Users\Andres\Desktop\FilePicker\SelectorArchivos\SelectorArchivos\SelectorArchivos\obj\Debug\netstandard2.0\SelectorArchivos.pdb
